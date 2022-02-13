@@ -11,5 +11,5 @@ I've successfully finished 3 courses !
 - Belajar Dasar Git dengan GitHub
 - Pengenalan ke Logika Pemrograman (Programming Logic 101)
 - Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
-- Belajar Membuat Aplikasi Android untuk Pemula
+- Belajar Membuat Aplikasi Android untuk Pemula  
 Today I'm going to finish Memulai Pemrograman Dengan Java, good luck for me!
